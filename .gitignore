@@ -1,0 +1,8 @@
+shell/*
+vase/*
+panel/*
+penguin/*
+meshxy.m
+loadmesh.m
+showmesh.m
+camera.txt
